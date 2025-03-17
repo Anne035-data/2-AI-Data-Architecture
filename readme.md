@@ -128,4 +128,6 @@ The architecture revolves around three key components:
 
 - Diagrams (achitecture, OLTP, OLAP, NoSQL)
 - Notebook: Database creation and query examples.
+- Video : https://www.loom.com/share/0d1e2f352b82463bbaaba5f5c415bc81?sid=c3488455-b5bf
+45dc-bba3-b38a704e2ab2 
 - Technical documentation
